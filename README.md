@@ -1,5 +1,7 @@
 
-
+<div align="center">
+<img src="https://Fasara.github.io/little-girl-cartoon.gif" align="center" style="width: 100%" />
+</div>  
 
 👩🏻‍💻 I'm a Junior Backend developer at [RotaCloud](https://rotacloud.com/)
 
