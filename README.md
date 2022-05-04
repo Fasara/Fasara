@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://github.com/Fasara/Fasara/blob/main/little-girl-cartoon.gif" align="center" style="width: 100%" />
+<!-- <img src="https://github.com/Fasara/Fasara/blob/main/little-girl-cartoon.gif" align="center" style="width: 100%" /> -->
+<img src="https://github.com/Fasara/Fasara/blob/main/header-github.png" align="center" style="width: 100%" />
 </div>  
 
 ## Ciao a tutti 👋🏽
