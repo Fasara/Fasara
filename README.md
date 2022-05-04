@@ -1,9 +1,14 @@
 
 <div align="center">
-<img src="https://Fasara.github.io/little-girl-cartoon.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Fasara/Fasara/blob/main/little-girl-cartoon.gif" align="center" style="width: 100%" />
 </div>  
 
-👩🏻‍💻 I'm a Junior Backend developer at [RotaCloud](https://rotacloud.com/)
+## Ciao a tutti 👋🏽
+**I'm Fabiana 🐞**
+
+👩🏻‍💻 I'm a self-taught developer, and I work as a Junior Backend developer at [RotaCloud](https://rotacloud.com/)
+
+
 
 
 ## My stack  🚧
