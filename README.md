@@ -19,18 +19,14 @@
   
 </div>
 
-
-
-
-
-
 <br/>
+
 <div align="center">
   <h2>⚡️ Technologies and tools ⚡️</h2>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="80" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>
@@ -43,15 +39,10 @@
 
 <div align="center">
   <h2>🔥 Some stats 🔥</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=buefy" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=radical" align="center" />
 </div>  
 <br/>
-
-<div align="center">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fasara&layout=compact" align="center" />
-</div>                                                                                                              
-<br/>
-                                                                                                              
+                                                                                                    
 
 <div align="center">
   <h2>📧 Connect with me 🫂 </h2>
