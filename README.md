@@ -6,15 +6,28 @@
 <br/>
 
 <div align="center">
-  <p>🇮🇹 I come from Italy and I live in York 🇬🇧 </p>
-
   <p>👩🏻‍💻 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
 
   <p>📚 I'm currently learning cloud stuff</p>
 
   <p>🐳 I'm passionate about Docker</p>
 
-  <p>🚧 Building my backend stack</p>
+  <p>🚧 I'm building my backend stack</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>A little more about me 🎀</h2>
+  <p>🇮🇹 I come from Italy and I'm based in York 🇬🇧 </p>
+
+  <p></p>
+
+  <p></p>
+
+  <p></p>
+
+  <p></p>
   
   
 </div>
