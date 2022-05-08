@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <p>👩🏻‍💻 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
+  <p> 💫 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
   
   <p> 🚧 I'm currently developing a small app built in <code>NestJS</code> and <code>Angular</code></p>
   
@@ -13,7 +13,7 @@
 
   <p>🐳 I'm passionate about Docker</p>
 
-  <p>📌 Facts about me: I'm addicted to Notion, diagrams, and sun</p>
+  <p>📌 Fact about me: I'm addicted to Notion, diagrams, and sun</p>
 </div>
 
 <br/>
