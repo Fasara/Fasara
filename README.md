@@ -1,7 +1,7 @@
 
 <div align="center">
 <!-- <img src="https://github.com/Fasara/Fasara/blob/main/little-girl-cartoon.gif" align="center" style="width: 100%" /> -->
-<img src="https://github.com/Fasara/Fasara/blob/main/header-github.png" align="center" style="width: 100%" />
+<img src="https://github.com/Fasara/Fasara/blob/main/github-header-image3.png" align="center" style="width: 100%" />
 </div>  
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>A little more about me 🎀</h2>
   <p>🇮🇹 I come from Italy and I'm based in York 🇬🇧 </p>
 
@@ -28,35 +28,40 @@
   <p></p>
 
   <p></p>
-  
-  
-</div>
+</div> -->
 
 <br/>
 
 <div align="center">
-  <h2>⚡️ Technologies and tools ⚡️</h2>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<h2>⚡️ Technologies and tools ⚡️</h2>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  
+ </p>
+  
 </div>
 
-</td><td valign="top" width="33%">
-
-</td></tr></table>  
-
-<br/>  
+<br/>
+<br/>
 
 <div align="center">
   <h2>🔥 Some stats 🔥</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=radical" align="center" />
-</div>  
-<br/>
-                                                                                                    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=buefy" align="center" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasara&layout=compact&theme=buefy" />
+</div>
 
+
+<!-- 
+<div align="center">
+  <h2>Pinned repositories</h2>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasara&repo=Nestjs-api&show_icons=true&theme=radical" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasara&show_icons=true&repo=DCA&theme=radical" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasara&show_icons=true&theme=radical&repo=nestjs-task-management" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fasara&show_icons=true&theme=radical&repo=og-aws" align="center" />
+</div>   -->
+<br/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fasara)  
 <div align="center">
   <h2>📧 Connect with me 🫂 </h2>
   <a href="https://github.com/Fasara" target="_blank">
@@ -76,5 +81,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fasara&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Fasara" align="center" />
 </div>  
+
