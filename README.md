@@ -41,7 +41,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fasara)  
 <div align="center">
-  <h2>📧 Connect with me 🫂 </h2>
+  <h2>📧 Connect with me 👥</h2>
   <a href="https://github.com/Fasara" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
