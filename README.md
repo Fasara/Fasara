@@ -9,7 +9,7 @@
   
   <p> 🚧 I'm currently developing a small app built in <code>NestJS</code> and <code>Angular</code></p>
   
-  <p>📚 Learning cloud stuff</p>
+  <p>📚 I'm learning cloud stuff</p>
 
   <p>🐳 I'm passionate about Docker</p>
 
