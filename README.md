@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <p> 💫 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
+  <p> 💫 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank" rel="noreferrer noopener">RotaCloud</a></p>
   
   <p> 🚧 I'm currently developing a small app built in <code>NestJS</code> and <code>Angular</code></p>
   
@@ -13,7 +13,7 @@
 
   <p>🐳 I'm passionate about Docker</p>
 
-  <p>📌 Fact about me: I'm addicted to Notion, diagrams, and sun</p>
+  <p>📌 Fact about me: I'm addicted to <a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789713&utm_medium=80211061801&utm_content=453572180157&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIupbZ6YDa9wIVFWHmCh2IJQYjEAAYASAAEgKZefD_BwE" target="_blank" rel="noreferrer noopener">Notion</a>, diagrams, and sun</p>
 </div>
 
 <br/>
