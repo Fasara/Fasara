@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <p> 💫 I work as a Junior Backend developer at <a onclick="window.open(this.href,'_blank');return false;" href="https://rotacloud.com/">RotaCloud</a></p>
+  <p> 💫 I work as a Junior Backend developer at <a onclick="window.open("https://rotacloud.com/");return false;">RotaCloud</a></p>
   
   <p> 🚧 I'm currently developing a small app built in <code>NestJS</code> and <code>Angular</code></p>
   
