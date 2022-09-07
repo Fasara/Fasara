@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <h2>⚡🏆 Achievements 🏆</h2>
+  <h2>🏆 Achievements 🏆</h2>
   <img src="https://github.com/HeyJonR/HeyJonR/blob/main/assets/achievements/RotaCloud%20Hackathon%202022%20Participant.png?raw=true" alt="RotaCloud Hackathon 2022 participant achievement" width="135" />
 </div>
 
