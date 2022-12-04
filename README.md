@@ -7,7 +7,7 @@
 <div align="center">
   <p> 💫 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
   
-  <p> 🚧 I'm currently developing a small app built in <code>NestJS</code> and <code>Angular</code></p>
+  <p> 🚧 I'm currently developing a small mobile app with <code>React Native</code> and <code>NestJS</code></p>
   
   <p>📚 I'm learning cloud stuff</p>
 
@@ -43,8 +43,6 @@
 </div>
 
 <br/>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fasara)  
 <div align="center">
   <h2>📧 Connect with me 👥</h2>
   <a href="https://github.com/Fasara" target="_blank">
