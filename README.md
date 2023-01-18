@@ -38,8 +38,8 @@
 
 <div align="center">
   <h2>🔥 Some stats 🔥</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=buefy" align="center" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasara&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Fasara&show_icons=true&theme=buefy" align="center" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Fasara&layout=compact&theme=buefy" />
 </div>
 
 <br/>
