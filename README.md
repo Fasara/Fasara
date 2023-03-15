@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <p> 💫 I work as a Junior Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
+  <p> 💫 I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
   
   <p> 🚧 I'm currently developing a small mobile app with <code>React Native</code> and <code>NestJS</code></p>
   
