@@ -47,12 +47,6 @@
   <img src="https://github.com/HeyJonR/HeyJonR/blob/main/assets/achievements/RotaCloud%20Hackathon%202022%20Participant.png?raw=true" alt="RotaCloud Hackathon 2022 participant achievement" width="135" />
 </div>
 
-<div align="center">
-  <h2>🔥 Some stats 🔥</h2>
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Fasara&show_icons=true&theme=buefy" align="center" />
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Fasara&layout=compact&theme=buefy" />
-</div>
-
 <br/>
 <div align="center">
   <h2>📧 Connect with me 👥</h2>
