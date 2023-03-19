@@ -1,11 +1,12 @@
 
 <div align="center">
-<img src="https://github.com/Fasara/Fasara/blob/main/github-header-image3.png" align="center" style="width: 100%" />
+<img src="FabiDev.jpg" align="center" style="width: 100%" />
 </div>  
 <br/>
 
 <div align="center">
-  <p> 💫 I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
+  <p><b>Hello everyone🤗</b></p>
+  <p>👩🏻‍💻I'm Fabiana and I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
   
   <p> 🚧 I'm currently developing a small mobile app with <code>React Native</code> and <code>NestJS</code></p>
   
@@ -13,7 +14,7 @@
 
   <p>🐳 I'm passionate about Docker</p>
 
-  <p>📌 Fact about me: I'm addicted to <a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789713&utm_medium=80211061801&utm_content=453572180157&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIupbZ6YDa9wIVFWHmCh2IJQYjEAAYASAAEgKZefD_BwE" target="_blank" rel="noreferrer noopener">Notion</a>, diagrams, and sun</p>
+  <p>📌 Fact about me: I'm addicted to <a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789713&utm_medium=80211061801&utm_content=453572180157&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIupbZ6YDa9wIVFWHmCh2IJQYjEAAYASAAEgKZefD_BwE" target="_blank" rel="noreferrer noopener">Notion</a>, diagrams, and sunshine</p>
 </div>
 
 <br/>
