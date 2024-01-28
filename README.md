@@ -13,8 +13,6 @@
   <p>📚 I'm learning cloud stuff</p>
 
   <p>🐳 I'm passionate about Docker</p>
-
-  <p>📌 Fact about me: I'm addicted to <a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789713&utm_medium=80211061801&utm_content=453572180157&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIupbZ6YDa9wIVFWHmCh2IJQYjEAAYASAAEgKZefD_BwE" target="_blank" rel="noreferrer noopener">Notion</a>, diagrams, and sunshine</p>
 </div>
 
 <br/>
