@@ -8,11 +8,8 @@
   <p><b>Hello everyone🤗</b></p>
   <p>👩🏻‍💻I'm Fabiana and I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
   
-  <p> 🚧 I'm currently developing a small web app with <code>NextJS</code> and <code>NestJS</code></p>
+  <p>👩🏻‍💻 I built a small parking web app using <code>NextJS</code> and <code>NestJS</code></p>
   
-  <p>📚 I'm learning cloud stuff</p>
-
-  <p>🐳 I'm passionate about Docker</p>
 </div>
 
 <br/>
@@ -47,14 +44,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
 <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
  <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
