@@ -6,9 +6,11 @@
 
 <div align="center">
   <p><b>Hello everyone🤗</b></p>
-  <p>👩🏻‍💻I'm Fabiana and I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud</a></p>
+  <p>👩🏻‍💻 I'm Fabiana and I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud.</a></p>
   
-  <p>👩🏻‍💻 I built a small parking web app using <code>NextJS</code> and <code>NestJS</code></p>
+  <p>🚙 I built a small parking web app using <code>NextJS</code> and <code>NestJS.</code></p>
+  
+  <p>📚 I'm currently learning <a href="https://anthropic.skilljar.com/"></a>Claude Code.</p>
   
 </div>
 
