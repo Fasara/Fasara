@@ -10,7 +10,7 @@
   
   <p>🚙 I built a small parking web app using <code>NextJS</code> and <code>NestJS.</code></p>
   
-  <p>📚 I'm currently learning <a href="https://anthropic.skilljar.com/"></a>Claude Code.</p>
+  <p>📚 I'm currently learning <a href="https://anthropic.skilljar.com/" target="blank">Claude Code.</a></p>
   
 </div>
 
