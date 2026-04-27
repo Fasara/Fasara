@@ -1,79 +1,66 @@
-
 <div align="center">
-<img src="FabiDev.jpg" align="center" style="width: 100%" />
-</div>  
-<br/>
+  <img src="FabiDev.jpg" width="100%" alt="Header Image" style="border-radius: 10px;" />
+  
+  <h1>Hi there, I'm Fabiana! 👋</h1>
 
-<div align="center">
-  <p><b>Hello everyone🤗</b></p>
-  <p>👩🏻‍💻 I'm Fabiana and I work as a Backend developer at <a href="https://rotacloud.com/" target="_blank">RotaCloud.</a></p>
-  
-  <p>🚙 I built a small parking web app using <code>NextJS</code> and <code>NestJS.</code></p>
-  
-  <p>📚 I'm currently learning <a href="https://anthropic.skilljar.com/" target="_blank">Claude Code.</a></p>
-  
+  <p>
+    <strong>Backend Engineer</strong>
+  </p>
+
+  <p>
+    Building robust server-side architectures and exploring the frontiers of AI-driven development.
+  </p>
+
+  <a href="https://www.linkedin.com/in/fabiana-asara-76004451/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<br/>
-<br/>
+---
 
-<div align="center">
-<h2>⚡️ Technologies and tools ⚡️</h2>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="40"/>
-  </a>
-  
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="file:///Users/fabiana/Downloads/Nest.js.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
- <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
-</a>
+### 👩🏻‍💻 About Me
 
+- 🚀 **Project I'm proud of:** A full-stack parking web app built with `Next.js` and `NestJS`.
+- 📚 **Learning:** Exploring AI workflows with [Claude Code](https://anthropic.skilljar.com/).
+- 🍷 **Fun Fact:** I'm a big wine enthusiast. I like to think of it as the original "backend process"—it takes time, the right environment, and a lot of testing to get the final output just right.
+
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/Eleventy-222222?style=flat-square&logo=11ty&logoColor=white" alt="11ty" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<br/>
-<br/>
+---
+
+### 🏆 Achievements
 
 <div align="center">
-  <h2>🏆 Achievements 🏆</h2>
-  <img src="https://github.com/HeyJonR/HeyJonR/blob/main/assets/achievements/RotaCloud%20Hackathon%202022%20Participant.png?raw=true" alt="RotaCloud Hackathon 2022 participant achievement" width="135" />
+  <img src="https://github.com/HeyJonR/HeyJonR/blob/main/assets/achievements/RotaCloud%20Hackathon%202022%20Participant.png?raw=true" alt="RotaCloud Hackathon 2022" width="120" />
+  <p><i>RotaCloud Hackathon Participant</i></p>
 </div>
 
-<br/>
-<div align="center">
-  <h2>📧 Connect with me 👥</h2>
-  <a href="https://www.linkedin.com/in/fabiana-asara-76004451/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div>  
+---
 
-<br/>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fasara" align="center" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=radical" alt="Fasara's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasara&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fasara&color=blueviolet" alt="Profile Views" />
+</div>
