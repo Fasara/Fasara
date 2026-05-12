@@ -55,10 +55,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fasara&show_icons=true&theme=radical" alt="Fasara's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasara&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img
+    src="https://streak-stats.demolab.com?user=Fasara&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="170"
+  />
 </div>
-
 <br />
 
 <div align="center">
