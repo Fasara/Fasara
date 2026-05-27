@@ -88,8 +88,8 @@ A parking booking app I built from scratch and currently maintain in production,
     <td><strong>Login Page</strong><br/>Users are authenticated via JWT tokens, ensuring secure and stateless authorization across the app. </td>
   </tr>
   <tr>
-    <td><img width="300" alt="Screenshot 2026-05-27 at 20 22 57" src="https://github.com/user-attachments/assets/3519bd9a-2e3b-4974-b7f1-1fde2568275f" /></td>
-    <td><strong>Booking Page</strong><br/>Once logged in, users can reserve a parking space by selecting a start and end time and choosing from the available spaces. Users can view all bookings across the team, but can only delete their own — keeping things transparent while preventing accidental changes to others' reservations.</td>
+    <td><img width="300" alt="Booking page" src="https://github.com/user-attachments/assets/3519bd9a-2e3b-4974-b7f1-1fde2568275f" /></td>
+    <td><strong>Booking Page</strong><br/>Once logged in, users can reserve the parking space by selecting their desired start and end time, within a time window between 7 am and 7 pm. Users can view all bookings across the team, but can only delete their own — keeping things transparent while preventing accidental changes to others' reservations.</td>
   </tr>
 </table>
 
