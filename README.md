@@ -18,7 +18,6 @@
 
 ### 👩🏻‍💻 About Me
 
-- 🚀 **Project I'm proud of:** A live parking web app built with `Next.js` and `NestJS` — from idea to production, and actively maintained by me.
 - 📚 **Currently learning:** Exploring AI workflows with [Claude Code](https://anthropic.skilljar.com/).
 - 🍷 **Fun fact:** I'm a big wine enthusiast — I like to think of it as the original "backend process." It takes time, the right environment, and a lot of testing to get the final output just right.
 
@@ -78,6 +77,21 @@
 </div>
 
 ---
+
+### ❤️ A Project I'm Proud Of — SpacePort
+
+A parking booking app I built from scratch and currently maintain in production, used internally by the company I used to work for. Users can book a parking space, view all team bookings, and manage their own reservations — all behind JWT-secured authentication.
+
+<table>
+  <tr>
+    <td><img width="300" alt="Login" src="https://github.com/user-attachments/assets/3c3fd314-3e85-4406-8778-01eede747c99" /></td>
+    <td><strong>Login Page</strong><br/>Users are authenticated via JWT tokens, ensuring secure and stateless authorization across the app. </td>
+  </tr>
+  <tr>
+    <td><img width="300" alt="Screenshot 2026-05-27 at 20 22 57" src="https://github.com/user-attachments/assets/3519bd9a-2e3b-4974-b7f1-1fde2568275f" /></td>
+    <td><strong>Booking Page</strong><br/>Once logged in, users can reserve a parking space by selecting a start and end time and choosing from the available spaces. Users can view all bookings across the team, but can only delete their own — keeping things transparent while preventing accidental changes to others' reservations.</td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Fasara&color=blueviolet&style=flat-square" alt="Profile Views" />
