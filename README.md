@@ -18,7 +18,7 @@
 
 ### 👩🏻‍💻 About Me
 
-- 🚀 **Project I'm proud of:** A full-stack parking web app built with `Next.js` and `NestJS`.
+- 🚀 **Project I'm proud of:** A live parking web app built with `Next.js` and `NestJS` — from idea to production, and actively maintained by me.
 - 📚 **Currently learning:** Exploring AI workflows with [Claude Code](https://anthropic.skilljar.com/).
 - 🍷 **Fun fact:** I'm a big wine enthusiast — I like to think of it as the original "backend process." It takes time, the right environment, and a lot of testing to get the final output just right.
 
